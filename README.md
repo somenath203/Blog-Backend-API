@@ -25,7 +25,7 @@ NodeJs, ExpressJS, MongoDB
 - Get all users who views someone's profile
 - Admin can block and unblock a user
 - Update password
-- Profile photo uploaded
+- Profile photo upload
 - A user can close his/her account permanently
 
 # API Endpoints
