@@ -8,7 +8,7 @@ NodeJs, ExpressJS, MongoDB
 # API Features
 
 - Authentication & Authorization
-- Post CRUD operations
+- Perform Post CRUD operations
 - Comment functionality
 - System blocking user if inactive for 30 days
 - A user can block different users
